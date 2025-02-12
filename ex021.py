@@ -1,3 +1,5 @@
+# Faça um programa que toque um mp3.
+
 import pygame
 pygame.mixer.init()
 pygame.init()
