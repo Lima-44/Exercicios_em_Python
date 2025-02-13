@@ -11,7 +11,7 @@ import random
 #escolhido = random.choice(lista)
 #print('O nome escolhido foi: {}'.format(escolhido))
 
-#Aqui abaixo vou mostrar como criar uma lista de nomes e solicitar para sortear aleatoriamente doi nomes usando o K=2
+#Aqui abaixo vou mostrar como criar uma lista de nomes e solicitar para sortear aleatoriamente dois nomes usando o K=2
 
 nome = ['André', 'Luiz', 'Leandro', 'João', 'Renato', 'Barbosa']
 

@@ -83,4 +83,4 @@ print(frase.split)#Aqui ele cria uma lista em colchetes separados por vírgula [
 dividido = frase.split()
 print(dividido[0])#Neste caso vai imprimir a palavra 'Curso'.
 dividido = frase.split()
-print(dividido[2][3])#Pegue o divido dois = Que neste caso é a palvra 'Vídeo' e mostre o caracter 3,que é a letra 'e'   
+print(dividido[2][3])#Pegue o divido dois = Que neste caso é a palvra 'Vídeo' e mostra o caracter 3,que é a letra 'e'   
