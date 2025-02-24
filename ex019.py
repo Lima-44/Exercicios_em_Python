@@ -2,14 +2,14 @@
 
 import random
 
-#um = str(input('Digite o nome do 1º aluno: '))
-#dois = str(input('Digite o nome do 2º aluno: '))
-#tres = str(input('Digite o nome do 3º aluno: '))
-#quat = str(input('Digite o nome do 4º aluno: '))
+um = str(input('Digite o nome do 1º aluno: '))
+dois = str(input('Digite o nome do 2º aluno: '))
+tres = str(input('Digite o nome do 3º aluno: '))
+quat = str(input('Digite o nome do 4º aluno: '))
 
-#lista = [um, dois, tres, quat]
-#escolhido = random.choice(lista)
-#print('O nome escolhido foi: {}'.format(escolhido))
+lista = [um, dois, tres, quat]
+escolhido = random.choice(lista)
+print('O nome escolhido foi: {}'.format(escolhido))
 
 #Aqui abaixo vou mostrar como criar uma lista de nomes e solicitar para sortear aleatoriamente dois nomes usando o K=2
 
