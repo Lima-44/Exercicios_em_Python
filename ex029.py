@@ -7,7 +7,7 @@ m = vel - 80
 if vel > 80:
     print('Você foi multado')  
     print('A multa vai custar R$ 7,00 reais por cada Km acima do limite.') 
-    print('Valor total por km/h ultrapassado R$ {} reais'.format(m * 7)) 
+    print('Valor total da multa por km/h ultrapassado R$ {:.2f} reais'.format(m * 7)) 
 else:    
     print('Você não foi multado')
     
